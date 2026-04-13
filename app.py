@@ -1,4 +1,5 @@
 import streamlit as st
+st.write("APP STARTED")
 
 st.set_page_config(page_title="Smart Water Dashboard", layout="wide")
 
