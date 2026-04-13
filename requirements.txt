@@ -2,5 +2,7 @@ streamlit
 pandas
 numpy
 scikit-learn
-joblib
-imbalanced-learn
+plotly
+folium
+streamlit-folium
+matplotlib
